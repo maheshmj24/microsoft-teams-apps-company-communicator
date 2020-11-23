@@ -145,6 +145,7 @@ class SendConfirmationTaskModule extends React.Component<SendConfirmationTaskMod
                             </div>
 
                             <div className="results">
+                                <br/>
                                 {this.renderAudienceSelection()}
                             </div>
                         </div>
